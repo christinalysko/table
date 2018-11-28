@@ -1,0 +1,13 @@
+td, th {
+    border: 3px solid rgb(7, 77, 8);
+    padding: 10px;
+  }
+  th {background-color: darkolivegreen;
+    color: white;
+    font-family: helvetica;}
+  td {background-color: rgb(230, 245, 146)}
+  #na {opacity: .0;}
+  h3 {font-family: helvetica; color:darkolivegreen; font-size: 21px;}
+  th:hover {background-color: rgb(8, 77, 8)}
+  table {height: 50%;
+width:50%;}
